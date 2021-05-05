@@ -122,3 +122,10 @@ table th {
             font-size: 39px;
         }
 }
+
+.social-media > a {
+    color: black;
+    padding: 20px;
+    font-size: 70px;
+    text-decoration: none;
+}
