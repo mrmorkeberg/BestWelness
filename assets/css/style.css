@@ -99,12 +99,6 @@ table th {
     text-transform: uppercase;
 }
 
-.table{
-   display: block !important;
-   overflow-x: auto !important;
-   width: 100% !important;
- }
-
 @media(max-width:767px) {
     .banner-box {
         margin-top: 20px !important;
