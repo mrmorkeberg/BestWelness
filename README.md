@@ -67,16 +67,25 @@ The goal is to retain members of the Gym by showing them what goes on in Gym.
 - Hover color on menu is #54b848
 - Copyright section background color is bg-dark 
 
+### **Fonts**
 
-**Fonts**
+Main font is Nunito from google fonts with font sans-serif as backup. 
 
-**Images**
+### **Images**
 
-**Wireframes**
+Images is bought from freepik. The images are credited in [credits](#credits) section. Images are very important, as they are showing the gym, equipment and services which are the sellingpoints. The large background image is chosen to catch the users attention and to show what the website is and what it can offer. 
+
+### **Wireframes**
+
+I used Balsamiq Wireframes to create the Wireframes
+
+- Desktop Wirefram  - [View](assets/wireframs/desktop.pdf)
+- Tablet Wirefram - [View](assets/wireframs/tablet.pdf)
+- Mobile phone Wirefram - [View](assets/wireframs/Mobilephone.pdf)
 
 ## Features
 
-**Existing Features**
+
 
 **Features Left to Implement**
 
