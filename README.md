@@ -1,4 +1,18 @@
-# Milestone project Best Wellness
+# Best Wellness website
+
+## User-Centric Frontend Development Milestone Project
+
+![Mockup](assets/images/mockup.png)
+
+Website presents the gym Best Wellness, their services, and the gym itself.
+Potential members will be able to see pictures of the gym, see the classes the gym offers, and read about the benefits of going to the gyn
+
+This project is for educational purposes and can not be used as a template for business use.
+Main aim is to build responsive website with HTML and CSS only. I will use Bootstrap framework to keep website consent and clear.
+
+## [View live website in github pages](https://mrmorkeberg.github.io/BestWelness/)
+---
+
 ## Project goals
 The goal of the project is to build a clean, appealing and intuitive website, that can attract new members and retain old members
 ## UX
