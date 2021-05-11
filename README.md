@@ -13,6 +13,16 @@ Main aim is to build responsive website with HTML and CSS only. I will use Boots
 ## [View live website in github pages](https://mrmorkeberg.github.io/BestWelness/)
 ---
 
+# Table of content
+
+- [UX](#ux)
+
+# UX
+
+## Website owners goals
+
+The Website owners goals it to build their brand, attract potential members, to keep present members and to inform the members about what is happening in the gym, when there are classes and about new offers.
+
 ## Project goals
 The goal of the project is to build a clean, appealing and intuitive website, that can attract new members and retain old members
 ## UX
