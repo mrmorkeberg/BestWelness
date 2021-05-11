@@ -17,7 +17,7 @@ body {
 h1, h2, h3, h4, h5 {
     font-weight: 600;
 }
-
+/* Style nav menu */
 .navbar-nav a {
     margin: 0px 10px;
     text-transform: uppercase;
@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5 {
 .navbar-nav a:hover {
     color: #54b848 !important;
 }
-
+/* Style background images and textbox */
 .standard-btn {
     border-radius: 25px;
     font-size: 17px;
@@ -67,7 +67,7 @@ h1, h2, h3, h4, h5 {
     font-size: 54px;
     font-weight: 600;
 }
-
+/* Style bannerbox */
 .banner-box {
     border: 2px solid black;
     padding: 20px 30px;
@@ -116,7 +116,7 @@ table th {
             font-size: 39px;
         }
 }
-
+/* Style social media icon */
 .social-media > a {
     color: black;
     padding: 20px;
