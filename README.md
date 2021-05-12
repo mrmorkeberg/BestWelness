@@ -236,6 +236,18 @@ Chrome developer tools was used throughout the project for testing and solving p
 
     - In the menu there is the menu item Classes, where you can find all the classes and the time for them
 
+-  I want to book group classes
+
+    - That feature isn't available yet. But is in Features left to Implement
+
+- I want to see new offers
+
+    - On the homepage, members can see new offers
+
+- I want to see pictures of what is happening in the gym
+
+    - In the Gallery section new pictures will be posted continuously, so that members can keep track of what is happening att the gym
+
 ## Deployment
 
 ## Credits
