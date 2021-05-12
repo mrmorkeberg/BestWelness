@@ -66,21 +66,17 @@ The goal is to retain members of the Gym by showing them what goes on in Gym.
 
 ### **As a potential gym member:**
 
-- I want to easily understand what the gym has to offer as to the gym itself (machines) which group training they are offering and what I can gain from joining the gym (losing weight, better health)
+- I want to easily understand what the gym has to offer as to the gym itself (machines) which group training they are offering
 - I want to find the prices and the location of the gym
 - I want to find the opening hours for the gym
-- I want to easily navigate throughout the site to find content I seek.
 - I want to find pictures of the gym
-- I want to see and read about the staff that works at the gym
 - I want to find the best way to get in contact with the gym
 - I want to find the schedule of the group classes
 
 ### **As a gym member:**
 
 - I want to easily find the schedule of the group training
-- I want to find where I can book a Personal Trainer
 - I want to book group classes
-- I want to see new events
 - I want to see new offers
 - I want to see pictures of what is happening in the gym
 
@@ -201,6 +197,45 @@ Each link will open in a separate tab in a browser.
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project.
 
 Chrome developer tools was used throughout the project for testing and solving problems with responsiveness and style issues.
+
+### **Testing User Stories from User Experience (UX) Section**
+
+### **As a potential gym member:**
+
+- I want to easily understand what the gym has to offer as to the gym itself (machines) which group training they are offering 
+
+    - When entering the site you can easily see in the menu Training and Classes. 
+    - The hero images also shows what Best Wellness offers
+    - If you scroll down you can read about some of the things the gym offers (crosfitt and personaltrainer)
+
+- I want to find the prices and the location of the gym
+
+    - On the Hero images you can se a price offer 
+    - In the menu on the top you can see the menu item Prices where you can find all the prices
+    - The location of the gym is found on the bottom of all pages, both as an address and on a map
+
+- I want to find the opening hours for the gym
+
+    - The opening hours is at the bottom on all pages, right beside the address 
+
+- I want to find pictures of the gym
+
+    - In the menu there is the menu item Gallery, where you can see pictures of the gym
+
+- I want to find the best way to get in contact with the gym
+
+    - In the bottom of all pages, beside the adress, you will find Contact us, where there are phone number and mail address
+
+- I want to find the schedule of the group classes
+
+    - In the menu there is the menu item Classes, where you can find all the classes and the time for them
+
+### **As a gym member:**
+
+- I want to easily find the schedule of the group training
+
+    - In the menu there is the menu item Classes, where you can find all the classes and the time for them
+
 ## Deployment
 
 ## Credits
