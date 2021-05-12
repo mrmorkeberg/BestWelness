@@ -198,7 +198,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 Chrome developer tools was used throughout the project for testing and solving problems with responsiveness and style issues.
 
-### **Testing User Stories from User Experience (UX) Section**
+## Testing User Stories from User Experience (UX) Section
 
 ### **As a potential gym member:**
 
@@ -247,6 +247,12 @@ Chrome developer tools was used throughout the project for testing and solving p
 - I want to see pictures of what is happening in the gym
 
     - In the Gallery section new pictures will be posted continuously, so that members can keep track of what is happening att the gym
+
+## Further Testing
+
+- The Website was tested on Google Chrome, Internet Explorer and Safari browsers.
+
+- The website was viewed and tested across multiple virtual mobile devices and browsers. I checked all supported devices in Chrome developer tools.
 
 ## Deployment
 
