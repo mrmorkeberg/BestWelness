@@ -56,7 +56,7 @@ The goal is to retain members of the Gym by showing them what goes on in Gym.
 - I want to see new offers
 - I want to see pictures of what is happening in the gym
 
-## Design choises
+## Design choices
 
 ### **Colors**
 
@@ -85,9 +85,41 @@ I used Balsamiq Wireframes to create the Wireframes
 
 ## Features
 
+The website is responsive and has interactive elements. The website consists of 6 pages. 5 are accessible from a navigation menu and 1 is the membership form, which is accessible from the: "Become a member" button.
 
+The website has the following features:
 
-**Features Left to Implement**
+## Navigation bar
+
+#### Navigation bar is visiable on the top of each page and is responsive. It will adapt to mobile devices by changing into a burger menu.
+
+* On the left side there is a logo with a link to the homepage. 
+* On the right side there are 5 links to navigate to the other pages, which are:
+    
+    * Home 
+    * Training
+    * Classes 
+    * Prices 
+    * Gallery 
+
+## Information about the gym
+
+Each page has information about Opening Hours, Adress and Contact information near the bottom. 
+
+## GoogleMap 
+
+Under the information about the gym, each page has a google map that shows where the gym is.
+
+## Footer
+
+Footer is the same on each page and has social links in the center.
+Each link will open in a separate tab in a browser.
+
+## Features Left to Implement
+
+* A payment solution on the Become a member page
+* A online booking option on the Classes page
+* Pictures in Gallery is clickable so the become bigger
 
 ## Technologies Used
 
