@@ -15,7 +15,35 @@ Main aim is to build responsive website with HTML and CSS only. I will use Boots
 
 # Table of content
 
-- [UX](#ux)
+- [UX](#ux) 
+
+    - [Website owners goals](#website-owners-goals)
+
+    - [User goals](#user-goals)
+
+        - [Potential gym member](#potential-gym-member)
+
+        - [Retaining members](#retaining-members)
+    
+    - [User stories](#User-stories)
+
+        - [As a potential gym member](#as-a-potential-gym-member)
+
+        - [As a gym member](#as-a-gym-member)
+
+    - [Design choises](#design-choises)
+
+        - [Colors](#colors)
+
+        - [Fonts](#fonts)
+
+        - [Images](#images)
+
+        - [Wireframes](#wireframes)
+
+- [Features](#features)
+
+- [Technologies Used](#technologies-used)
 
 # User Experience (UX)
 
@@ -120,6 +148,7 @@ Each link will open in a separate tab in a browser.
 * A payment solution on the Become a member page
 * A online booking option on the Classes page
 * Pictures in Gallery is clickable so the become bigger
+* Pictures of the employees of the gym and a description of the person
 
 # Technologies Used
 
@@ -167,9 +196,11 @@ Each link will open in a separate tab in a browser.
 * Am I Responsive was used to do the Mockup.
 
 
+# Testing
 
-## Testing
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project.
 
+Chrome developer tools was used throughout the project for testing and solving problems with responsiveness and style issues.
 ## Deployment
 
 ## Credits
