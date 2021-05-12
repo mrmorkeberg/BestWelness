@@ -83,7 +83,7 @@ I used Balsamiq Wireframes to create the Wireframes
 - Tablet Wirefram - [View](assets/wireframs/tablet.pdf)
 - Mobile phone Wirefram - [View](assets/wireframs/Mobilephone.pdf)
 
-## Features
+# Features
 
 The website is responsive and has interactive elements. The website consists of 6 pages. 5 are accessible from a navigation menu and 1 is the membership form, which is accessible from the: "Become a member" button.
 
@@ -121,7 +121,52 @@ Each link will open in a separate tab in a browser.
 * A online booking option on the Classes page
 * Pictures in Gallery is clickable so the become bigger
 
-## Technologies Used
+# Technologies Used
+
+### **Languages Used**
+
+* #### HTML5
+* #### CSS
+
+### **Frameworks, Libraries & Programs Used**
+
+#### Bootstrap 4.6.0 
+
+* Bootstrap was used to keep the website responsive and help with the styling
+
+#### Google Fonts 
+
+* Google fonts was used to import the "Nunito" font into style.css and was used on all pages through the hole website
+
+#### Font Awsome
+
+* Font awsome was used as a icon library throughout the website
+
+#### Git 
+
+* Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub
+
+#### GitHub
+
+* Github was used as a software hosting platform to store the projects code after being pushed from Git
+
+#### Gitpod
+
+* Gitpod was used as a development hosting platform
+
+#### Photoshop
+
+* Photoshop was used to resizing images and editing pictures for the website.
+
+#### Balsamiq
+
+* Balsamiq was used to create the wireframes during the design process.
+
+#### ami.responsivedesign
+
+* Am I Responsive was used to do the Mockup.
+
+
 
 ## Testing
 
