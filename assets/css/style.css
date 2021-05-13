@@ -129,6 +129,16 @@ table th {
         .bg-section h1 {
             font-size: 39px;
         }
+
+.banner-box i {
+        color: #54b848;
+        font-size: 38px;
+        position: absolute;
+        right: 10px;
+        bottom: 10px;
+    }
+
+
 }
 
 @media(max-width:576px) {
@@ -139,4 +149,13 @@ table th {
     font-size: 50px;
     text-decoration: none;
     }   
+
+     .banner-box i {
+        color: #54b848;
+        font-size: 34px;
+        position: absolute;
+        right: 10px;
+        bottom: 10px;
+    }
+
 }
