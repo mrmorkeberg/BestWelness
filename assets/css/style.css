@@ -38,6 +38,7 @@ hr {
 .navbar-nav .btn-navbar {
     border-radius: 20px;
     text-transform: none;
+    margin-right: 0px;
 }
 
 .navbar-nav a:hover {
