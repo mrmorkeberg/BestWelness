@@ -18,6 +18,10 @@ body {
 h1, h2, h3, h4, h5 {
     font-weight: 600;
 }
+
+hr {
+    border: 1px solid #565353;
+}
 /* Style nav menu */
 .navbar-nav a {
     margin: 0px 10px;
