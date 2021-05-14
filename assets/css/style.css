@@ -22,6 +22,14 @@ h1, h2, h3, h4, h5 {
 hr {
     border: 1px solid #565353;
 }
+
+input {
+    border: 1px solid black
+}
+
+::placeholder {
+    color: black;
+}
 /* Style nav menu */
 .navbar-nav a {
     margin: 0px 10px;
