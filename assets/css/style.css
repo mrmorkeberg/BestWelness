@@ -7,8 +7,7 @@ body {
 }
 
 .btn-success {
-    background: #54b848 !important;
-    border: 1px solid #54b848 !important
+    background: #54b848 !important;   
 }
 
 .btn-success:hover {
