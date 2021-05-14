@@ -1,17 +1,9 @@
-# Best Wellness website
-
-## User-Centric Frontend Development Milestone Project
+# [Best Wellness website](https://mrmorkeberg.github.io/BestWelness/)
 
 ![Mockup](assets/images/mockup.png)
 
 Website presents the gym Best Wellness, their services, and the gym itself.
 Potential members will be able to see pictures of the gym, see the classes the gym offers, and read about the benefits of going to the gyn
-
-This project is for educational purposes and can not be used as a template for business use.
-Main aim is to build responsive website with HTML and CSS only. I will use Bootstrap framework to keep website consent and clear.
-
-## [View live website in github pages](https://mrmorkeberg.github.io/BestWelness/)
----
 
 # Table of content
 
@@ -86,7 +78,6 @@ The goal is to retain members of the Gym by showing them what goes on in Gym.
 
 - Main background color is white
 - Text color is black
-- Some sections background color is #f8f9fa
 - Button color is #54b848 
 - Hover color on menu is #54b848
 - Copyright section background color is bg-dark 
@@ -254,13 +245,82 @@ Chrome developer tools was used throughout the project for testing and solving p
 
 - The website was viewed and tested across multiple virtual mobile devices and browsers. I checked all supported devices in Chrome developer tools.
 
+- Testing was done to ensure that all pages were linking correctly.
+
+- Friends were asked to review the site and to point out bugs and/or user experience issues. 
+
+- The website was viewed many times and margins was changed to give a better user experience.
+
+## Known bugs
+
+- When resizing the screen to check responsiveness, there are breakpoints where the text and the icons in the bannerbox overlap. 
+
 ## Deployment
 
-## Credits
+The project was deployed on GitHub pages. I used Gitpod as a development environment where I commited all changes to git version contorl system. I used push command in Gitpod to save changes into GitHub. 
 
-**Content**
+To deploy the project to Github I used the following steps:
 
-**Media**
+- Log into Github and locate the right repository 
+- Click on the repository 
+- Click on settings on the top right side, a menu will open on the left side
+- Find pages in the menu on the left side, second last from the bottom
+- Click on pages
+- Under "Source, click the dropdown called "None" and select "Master Branch"
+- Click save and the pages will deploy after auto-refresh
+- After that there will be a link under GitHub pages that says: Your site is published at Your site is published at https://mrmorkeberg.github.io/BestWelness/
 
-**Acknowledgements**
+# Credits
 
+-  To complete this project I used Code Institute student template: gitpod full template
+
+- Ideas and knowledge library:
+
+    - w3schools.com
+
+    - stackoverflow.com
+
+    - getbootstrap.com/docs
+
+    - https://web.dev/
+
+
+## Code 
+
+- Bootstrap 4.6.0 library used throughout the project to make the site responsive using the Grid system and the code for Navbar, buttons and some styling
+
+- The code for social media styling on line 116 and 153 was taken from w3schools.com/howto/howto_css_social_media_buttons.asp
+
+- The map was taken and embedded from Googlemaps 
+
+## Content
+
+Content was taken from nordicwellness.se/ and translated into english
+
+## Media
+
+All images was bought from freepik.com
+
+Credit to:
+
+- master1305
+- artroomstudio
+- starush
+- yanalya
+- ufabizphoto
+- prostooleh
+- krisikorn
+- oneinchpunch
+- rawpixel
+- freepik
+- branin
+- prostock-studio
+- wavebreakmedia
+- dusanpetkovic
+- Pekic
+
+## Acknowledgements
+
+- My Mentor for continuous helpful feedback.
+
+- Tutor support at Code Institute for their support.
